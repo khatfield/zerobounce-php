@@ -1,5 +1,5 @@
 {
-  "name": "nickdnk/zerobounce-php",
+  "name": "khatfield/zerobounce-php",
   "description": "OOP integration with the ZeroBounce API.",
   "type": "library",
   "require": {
